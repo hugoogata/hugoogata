@@ -1,4 +1,4 @@
-### Hugo Kenzo :computer: :abacus: :smiley:
+### Hugo Kenzo :computer: :bar_chart: :chart_with_upwards_trend: :chart_with_downwards_trend:
 ***
 <p>My name is Hugo Kenzo Ogata, I'm a Brazilian and currently work with Business Intelligence and Web Analytics. </p>
 <p>Meu nome é Hugo Kenzo Ogata sou brasileiro e atualmente trabalho com Business Intelligence e Web Analytics. </p>
