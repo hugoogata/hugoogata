@@ -1,10 +1,11 @@
-### Hi there 👋 :smiley:
+### Hugo Kenzo :computer: :abacus: :smiley:
 ***
-My name is Hugo Kenzo Ogata, I am a Brazilian and currently work with Business Intelligence and Web Analytics.
+<p>My name is Hugo Kenzo Ogata, I'm a Brazilian and currently work with Business Intelligence and Web Analytics. </p>
+<p>Meu nome é Hugo Kenzo Ogata sou brasileiro e atualmente trabalho com Business Intelligence e Web Analytics. </p>
 
-* :office: Currently working as BI for [Cadastra](https://cadastra.com/pt/)
-* :man_technologist: Skill: SQL, R, Python, Data viz, ETL
-* :mailbox_with_no_mail: How to reach me: hugo.ogata@outlook.com | [Linkedin](https://www.linkedin.com/in/hugo-kenzo-ogata-72888896/)
+* :office:  Currently working as BI for [Cadastra](https://cadastra.com/pt/)
+* :man_technologist:  Skill: SQL, R, Python, Data viz, ETL
+* :mailbox_with_no_mail:  How to reach me: hugo.ogata@outlook.com | [Linkedin](https://www.linkedin.com/in/hugo-kenzo-ogata-72888896/)
 
 <!--
 **hugoogata/hugoogata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
