@@ -5,6 +5,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugoogata" alt="hugoogata" /></a> </p>
 
 <h3 align="center">Hugo Kenzo Ogata :computer: :bar_chart: :chart_with_upwards_trend: :chart_with_downwards_trend:
+
+***
   
 <p align="left">My name is Hugo Kenzo Ogata, I'm a Brazilian and currently work with Business Intelligence and Web Analytics. </p>
 <p align="left">Meu nome é Hugo Kenzo Ogata sou brasileiro e atualmente trabalho com Business Intelligence e Web Analytics. </p>
