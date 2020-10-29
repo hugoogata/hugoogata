@@ -8,8 +8,7 @@
 
 ***
   
-<p align="left">My name is Hugo Kenzo Ogata, I'm a Brazilian and currently work with Business Intelligence and Web Analytics. </p>
-<p align="left">Meu nome é Hugo Kenzo Ogata sou brasileiro e atualmente trabalho com Business Intelligence e Web Analytics. </p>
+<p align="left"> Sou brasileiro e atualmente trabalho com Business Intelligence e Web Analytics. </p>
 
 <p align="left">  :office:  Currently working as BI
 <p align="left">  :man_technologist:  Skill: SQL, R, Python, Data viz, ETL
