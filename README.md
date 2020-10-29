@@ -6,12 +6,12 @@
 
 <h3 align="center">Hugo Kenzo Ogata :computer: :bar_chart: :chart_with_upwards_trend: :chart_with_downwards_trend:
   
-<p>My name is Hugo Kenzo Ogata, I'm a Brazilian and currently work with Business Intelligence and Web Analytics. </p>
-<p>Meu nome é Hugo Kenzo Ogata sou brasileiro e atualmente trabalho com Business Intelligence e Web Analytics. </p>
+<p align="left">My name is Hugo Kenzo Ogata, I'm a Brazilian and currently work with Business Intelligence and Web Analytics. </p>
+<p align="left">Meu nome é Hugo Kenzo Ogata sou brasileiro e atualmente trabalho com Business Intelligence e Web Analytics. </p>
 
-* :office:  Currently working as BI
-* :man_technologist:  Skill: SQL, R, Python, Data viz, ETL
-* :mailbox_with_no_mail:  How to reach me: hugo.ogata@outlook.com
+<p align="left">  :office:  Currently working as BI
+<p align="left">  :man_technologist:  Skill: SQL, R, Python, Data viz, ETL
+<p align="left">  :mailbox_with_no_mail:  How to reach me: hugo.ogata@outlook.com
 
 <h3 align="left">Social:</h3>
 <p align="left">
