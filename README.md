@@ -10,7 +10,7 @@
   
 <p align="left"> Sou brasileiro e atualmente trabalho com Business Intelligence e Web Analytics. </p>
 
-<p align="left">  :office:  Currently working as BI
+<p align="left">  :office:  Currently working as BI Enterprise Mobicare | Akross
 <p align="left">  :man_technologist:  Skill: SQL, R, Python, Data viz, ETL
 <p align="left">  :mailbox_with_no_mail:  How to reach me: hugo.ogata@outlook.com
 
